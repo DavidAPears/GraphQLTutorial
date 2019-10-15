@@ -12,4 +12,3 @@ type Link {
   description: String!
   url: String!
 }
-`;
